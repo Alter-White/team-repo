@@ -1,7 +1,42 @@
 .costumers {
-    background-color: #66ccff;
+  background-color: #66ccff;
 }
 
 .costumers-header {
-    text-transform: uppercase;
+  display: block;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+  color: #000;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.consumers-image {
+  margin-bottom: 20px;
+  color: #000;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.costumer-name {
+  margin-bottom: 12px;
+}
+
+.costumer-company {
+  margin-bottom: 40px;
+}
+
+.costumer-text {
+  margin-bottom: 64px;
+  color: #000;
+  text-align: center;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px; /* 150% */
 }
