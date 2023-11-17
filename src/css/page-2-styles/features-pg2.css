@@ -1,3 +1,44 @@
 .features-pg2 {
-    background-color: #9999ff;
+  background: #fff;
+}
+.features-pg2-title {
+  margin-bottom: 80px;
+
+  text-align: center;
+  color: #000;
+
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1;
+}
+.features-pg2-description {
+  margin-bottom: 56px;
+  color: #000;
+  text-align: center;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+}
+.features-pg2-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+.features-pg2-item {
+  flex-basis: 220px;
+}
+.features-pg2-list-title {
+  color: #000;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.5;
+}
+.features-pg2-text {
+  color: #000;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1;
 }
