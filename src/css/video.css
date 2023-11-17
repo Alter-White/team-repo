@@ -1,4 +1,27 @@
 .video {
-  background-color: lightgray;
-  border: 1px solid black;
+  background-color:#06071B;
+  width: 320px;
+height: 629px;
+}
+
+.video-title {
+  color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: 24px;
+align-items: center;
+}
+
+.video-text {
+  color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
 }
